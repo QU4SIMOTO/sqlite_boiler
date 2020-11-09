@@ -1,1 +1,1 @@
-#Simple sqlite base boiler plate
+# Simple sqlite base boiler plate
